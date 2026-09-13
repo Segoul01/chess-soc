@@ -627,6 +627,10 @@ a {
     .AboutPage .AboutMain .AboutContent .AboutText {
         padding: 2rem 3rem 2.5rem 3rem;
     }
+
+    .HomePage .Topbar {
+        display: flex;
+    }
 }
 
 
@@ -637,10 +641,6 @@ a {
     .Events .EventsHeading,
     .FAQ .FAQHeading {
         font-size: 2.25em;
-    }
-
-    .HomePage .Topbar {
-        display: flex;
     }
 
     .HomePage .HomeBackground {
